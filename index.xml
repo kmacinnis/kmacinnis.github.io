@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software Developer, Mathematics Enthusiast on Kate MacInnis</title>
-    <link>https://kmacinnis.github.io/</link>
+    <link>/</link>
     <description>Recent content in Software Developer, Mathematics Enthusiast on Kate MacInnis</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2019</copyright>
     <lastBuildDate>Fri, 23 Aug 2019 13:46:46 -0600</lastBuildDate>
     
-	<atom:link href="https://kmacinnis.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Videos</title>
-      <link>https://kmacinnis.github.io/pages/videos/</link>
+      <link>/pages/videos/</link>
       <pubDate>Fri, 23 Aug 2019 13:46:46 -0600</pubDate>
       
-      <guid>https://kmacinnis.github.io/pages/videos/</guid>
+      <guid>/pages/videos/</guid>
       <description>Once upon a time, back when I taught college math, I made a bunch of videos for my students. I&amp;rsquo;ve collected some of them here, just because.
 Matrix Operations    &amp;nbsp;   &amp;nbsp;   &amp;nbsp;   Systems of Linear Equations    &amp;nbsp;   &amp;nbsp;   &amp;nbsp;   &amp;nbsp;   &amp;nbsp;   &amp;nbsp;   &amp;nbsp;   &amp;nbsp;   &amp;nbsp;   Basic Set Theory    &amp;nbsp;   &amp;nbsp;   &amp;nbsp;   &amp;nbsp;   &amp;nbsp;   &amp;nbsp;   &amp;nbsp;   Relations and Functions    &amp;nbsp;   &amp;nbsp;   You can find all my videos on my youtube channel.</description>
     </item>
     
     <item>
       <title>Experienced and Supportive Math Tutor</title>
-      <link>https://kmacinnis.github.io/pages/tutoring/</link>
+      <link>/pages/tutoring/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kmacinnis.github.io/pages/tutoring/</guid>
+      <guid>/pages/tutoring/</guid>
       <description>Is math a frustrating subject for you? Are you struggling to make sense of it all? I would love to help! My strengths include giving clear explanations, providing a supportive learning environment, and the ability to identify and correct a student&amp;rsquo;s miscomprehensions. I am particularly good at working with students who have had traumatic mathematical experiences in their past. I love working with students who have been convinced that they are “just not smart in math” and helping them achieve their own mathematical victories.</description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://kmacinnis.github.io/projects/</link>
+      <link>/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kmacinnis.github.io/projects/</guid>
+      <guid>/projects/</guid>
       <description>Visual Timer - an iOS app</description>
     </item>
     
